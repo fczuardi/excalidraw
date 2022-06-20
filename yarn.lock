@@ -2353,7 +2353,7 @@
     "@types/json-schema" "^7.0.3"
     "@typescript-eslint/scope-manager" "4.19.0"
     "@typescript-eslint/types" "4.19.0"
-    "@typescript-eslint/typescript-estree" "4.19.0"
+    "@typescript-eslint/typescript-estree" "5.10.2"
     eslint-scope "^5.0.0"
     eslint-utils "^2.0.0"
 
@@ -2364,7 +2364,7 @@
   dependencies:
     "@types/json-schema" "^7.0.3"
     "@typescript-eslint/types" "3.10.1"
-    "@typescript-eslint/typescript-estree" "3.10.1"
+    "@typescript-eslint/typescript-estree" "5.10.2"
     eslint-scope "^5.0.0"
     eslint-utils "^2.0.0"
 
@@ -2375,7 +2375,7 @@
   dependencies:
     "@typescript-eslint/scope-manager" "4.19.0"
     "@typescript-eslint/types" "4.19.0"
-    "@typescript-eslint/typescript-estree" "4.19.0"
+    "@typescript-eslint/typescript-estree" "5.10.2"
     debug "^4.1.1"
 
 "@typescript-eslint/scope-manager@4.19.0":
